@@ -1,7 +1,7 @@
-- 👋 Oh hi, i’m @tristantyson
+- 👋 Oh hi, i’m @tristantyson.
 - 👀 I’m interested in Microsoft cloud technologies.
-- 🌱 I’m forever learning. Current focus: C# and powershell
-- 📫 Reach out to tristan@tristantyson.com
+- 🌱 I’m forever learning. Current focus: C# and PowerShell.
+- 📫 Reach out to tristan@tristantyson.com.
 
 <!---
 tristantyson/tristantyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
