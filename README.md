@@ -1,6 +1,6 @@
 - 👋 Oh hi, i’m @tristantyson
 - 👀 I’m interested in Microsoft cloud technologies.
-- 🌱 I’m forever learning. Current focus: jekyll static sites, C#, and powershell
+- 🌱 I’m forever learning. Current focus: C# and powershell
 - 📫 Reach out to tristan@tristantyson.com
 
 <!---
