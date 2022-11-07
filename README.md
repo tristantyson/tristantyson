@@ -1,4 +1,5 @@
-		.o oOOOOOOOo                                            OOOo
+```
+    .o oOOOOOOOo                                            OOOo
     Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
     OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO
     OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'
@@ -17,6 +18,7 @@
     .                  .     OP"          : o     .
                               :
                               .
+```
 
 
 - 👋 Oh hi, i’m @tristantyson.
